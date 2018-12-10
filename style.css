@@ -21,10 +21,7 @@ nav {
   text-align: center;
 }
 .container {
-  width: 495px;
-  margin: 0 auto;
-  background:#ebebeb;
-  margin: 10px;
+  height: 250px;
 }
 #left {
   background:#ebebeb;
@@ -35,15 +32,16 @@ nav {
   float: left;
 }
 #article{
-  color: #777;
-  /*background:#ebebeb;*/
+  color:#ebebeb;
+  background: #777;
   text-align: center; 
-  width: 495px;
+  width: 470px;
   height: 200px;
+  margin: 10px;
 }
 
 #h123, #p {
-  height: 60px;
+  height: 30px;
   text-align: center;
   margin: 20px;
   color: #777;
@@ -51,12 +49,15 @@ nav {
 }
  
 #aside{
+  margin: 10px;
+  float: left;
   background:#ebebeb;
   text-align: center;
-  width: 300px;
+  width: 425px;
   height: 250px;
 }
 footer {
+  clear: both;
   background:#ebebeb;
   margin: 10px;
   height: 50px;
