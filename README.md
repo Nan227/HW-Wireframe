@@ -1,6 +1,6 @@
 # HW-Wireframe
 
-This is my first HTML and CSS project. I had learned how to design the HTML frames from the beginning. How to use a flow in each frames-box to work in order. Fun try!
+This is my first HTML and CSS project. I had learned how to design the HTML frames from the beginning. How to use a flow in each frames-box to work in order to fix in the frame.  Fun try!
 
 # Screenshot 
 ![](pic.png)
